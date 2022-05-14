@@ -33,8 +33,6 @@
 
 <br><br>
 <br><br>
-<br><br>
-<br><br>
 <p align="center"> <b> Let's Connect<b/> 🔥</p>
 <a href="https://github.com/AreebAhmad935/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
@@ -50,7 +48,7 @@
 <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
 <a href="https://m.me/areebahmad935/">
 <img src="https://img.shields.io/badge/Chat-1877F2?style=for-the-badge&logo=Messenger&logoColor=ffffff"></a>
-<a href="https://wa.me/03027684537?text=Thank%20you%20for%20supporting%20me%20%E2%9D%A4%0ABank%20Account%20Details%0ATitle%3A%20Abrar%20Ali%0AIBAN%3A%20PK19MEZN0012750106221565">
+<a href="https://wa.me/03027684537?text=Thank%20you%20for%20supporting%20me%20%E2%9D%A4%0ABank%20Account%20Details%0ATitle%3A%20Areeb%20Ali%0AIBAN%3A%20PK19MEZN0012750106221565">
 </div>
     
 
@@ -59,25 +57,20 @@
 <!-- <p align="center"></p> -->
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe_Photoshop-00aeff?style=for-the-badge&logo=Adobe%20photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe_Illustrator-ff9900?style=for-the-badge&logo=Adobe-illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
-<img src="https://img.shields.io/badge/React-JS-blue" />    
+  
 <br><br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarali-official&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
-</div>
-<br>
-
 ## GitHub Statistics 📈
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarali-official&theme=dark&hide_title=true&include_all_commits=true"/>
-</div><br>
-<div align="center">  
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=abrarali-official&margin-w=15&margin-h=15" />
-<!-- [![Abrar Ali Achievements](https://github-profile-trophy.vercel.app/?username=abrarali-official&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=abrarali-official&margin-w=15&margin-h=15) -->
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebahmad935&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+</div>
+<br>
+<div align="center">
 </div>
 ### Show some ❤️ by starring some of the repositories!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px">
